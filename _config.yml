@@ -27,8 +27,8 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: Muniz1994             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 social:
   name: Bruno Souza Muniz                  # it will shows as the copyright owner in Footer
@@ -39,7 +39,7 @@ social:
     - https://github.com/Muniz1994       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/brunosmuniz1994
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
