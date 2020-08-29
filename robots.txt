@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://Muniz1994.github.io/Muniz1994.github.io/sitemap.xml
